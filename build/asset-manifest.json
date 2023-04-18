@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ListFilm/static/css/main.aabf2704.css",
+    "main.js": "/ListFilm/static/js/main.ed56290e.js",
+    "index.html": "/ListFilm/index.html",
+    "main.aabf2704.css.map": "/ListFilm/static/css/main.aabf2704.css.map",
+    "main.ed56290e.js.map": "/ListFilm/static/js/main.ed56290e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabf2704.css",
+    "static/js/main.ed56290e.js"
+  ]
+}
